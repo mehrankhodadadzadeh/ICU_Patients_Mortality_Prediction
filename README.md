@@ -29,7 +29,7 @@ This repository contains the implementation of a machine learning model for pred
 - Applied Random Forest and XGBoost for feature importance analysis.
 - Key features identified: Age, RDW, creatinine, etc.
 - Combined feature rankings for enhanced interpretability.
-![XGBoost for feature importance](feature.png)
+![XGBoost for feature importance](features.png)
 
 ## Modeling Techniques
 1. **Logistic Regression**:
@@ -43,6 +43,7 @@ This repository contains the implementation of a machine learning model for pred
 ## Results
 - Random Forest achieved the highest accuracy and AUC.
 - Age, RDW, and creatinine levels were the most significant predictors.
+![Results](results.png)
 
 ## Future Prospects
 - Validate the model on larger datasets.
