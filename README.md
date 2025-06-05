@@ -27,18 +27,21 @@ This repository contains the implementation of a machine learning model for pred
 
 ## Feature Selection
 - Applied Random Forest and XGBoost for feature importance analysis.
-- Key features identified: Age, RDW, creatinine, etc.
+- Key features identified: Hyperlipidaemia, Age, RDW,  Depression, Hypertension, etc.
 - Combined feature rankings for enhanced interpretability.
 ![XGBoost for feature importance](features.png)
 
+
+
 ## Modeling Techniques
 1. **Logistic Regression**:
-   - Accuracy: 71.29%.
+   - Accuracy: 77%.
 2. **Random Forest**:
-   - Accuracy: 77.88% (best performer).
+   - Accuracy: 86% (best performer).
 3. **Gradient Boosting**:
-   - Accuracy: 73.01%.
+   - Accuracy: 81%.
 4. Compared models using ROC curves for true/false positive rate analysis.
+
 
 ## Results
 - Random Forest achieved the highest accuracy and AUC.
