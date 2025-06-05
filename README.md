@@ -47,8 +47,3 @@ This repository contains the implementation of a machine learning model for pred
 - Validate the model on larger datasets.
 - Implement in clinical settings for decision support.
 - Explore advanced features and modeling techniques for improved predictions.
-
-## How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/HF_ICU_Mortality_Prediction.git
